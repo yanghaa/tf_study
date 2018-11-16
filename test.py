@@ -7,3 +7,5 @@ model = Sequential([
     Dense(10),
     Activation('softmax'),
 ])
+
+print ('66')
